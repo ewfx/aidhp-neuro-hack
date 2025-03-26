@@ -1,0 +1,501 @@
+customer_id,post_id,platform,content,timestamp,sentiment_id,intent
+1,POST-1-0,Facebook,My customer service was excellent. Within draw agreement. rate.,2025-03-05T17:49:53,4,Praise
+1,POST-1-1,Facebook,My online banking experience was excellent. Young agree establish check. interest.,2025-03-11T17:49:53,5,Inquiry
+1,POST-1-2,Facebook,My customer service was excellent. By side increase. approval.,2025-01-04T17:49:53,3,Praise
+1,POST-1-3,Instagram,My customer service was excellent. Story particularly themselves body someone. interest.,2025-03-25T17:49:53,3,Recommendation
+1,POST-1-4,Instagram,My customer service was excellent. Soon quality skin painting ahead. app.,2025-01-15T17:49:53,5,Recommendation
+2,POST-2-0,Facebook,My loan application was excellent. Option behavior employee want card while story similar. app.,2025-01-22T17:49:53,5,Complaint
+2,POST-2-1,Twitter,My loan application was excellent. Art someone property interesting morning remember. fees.,2024-12-29T17:49:53,4,Feedback
+2,POST-2-2,LinkedIn,My investment advice was excellent. Step cover both involve. approval.,2025-03-12T17:49:53,3,Feedback
+2,POST-2-3,LinkedIn,My online banking experience was excellent. Article mean character behavior discover. rate.,2025-02-03T17:49:53,4,Recommendation
+2,POST-2-4,Instagram,My investment advice was excellent. Republican since while hotel environmental. fees.,2025-02-17T17:49:53,3,Inquiry
+3,POST-3-0,Facebook,My credit card benefits was excellent. Successful course own carry. rate.,2025-02-13T17:49:53,4,Complaint
+3,POST-3-1,Twitter,My loan application was excellent. National lay less else benefit. service.,2025-03-14T17:49:53,4,Recommendation
+3,POST-3-2,Facebook,My loan application was excellent. Fill song decide treatment huge consider sign. approval.,2025-02-22T17:49:53,4,Recommendation
+3,POST-3-3,LinkedIn,My loan application was excellent. School order region. rate.,2025-01-05T17:49:53,4,Recommendation
+3,POST-3-4,Instagram,My online banking experience was excellent. Wind enter let process. rate.,2025-03-18T17:49:53,3,Praise
+4,POST-4-0,Twitter,My credit card benefits was poor. Particularly meet mother behavior. rate.,2025-01-24T17:49:53,2,Recommendation
+4,POST-4-1,Twitter,My loan application was poor. Star similar theory admit pass. interest.,2025-02-01T17:49:53,3,Feedback
+4,POST-4-2,LinkedIn,My loan application was poor. Grow half friend second responsibility because pull. service.,2025-03-22T17:49:53,1,Inquiry
+4,POST-4-3,Instagram,My credit card benefits was poor. Fire enter bring majority. approval.,2025-01-06T17:49:53,2,Complaint
+4,POST-4-4,Twitter,My customer service was poor. Still resource paper myself. interest.,2025-03-21T17:49:53,1,Inquiry
+5,POST-5-0,Twitter,My online banking experience was poor. Report strong good involve. approval.,2024-12-26T17:49:53,1,Feedback
+5,POST-5-1,Instagram,My online banking experience was poor. Many see skin. approval.,2025-01-29T17:49:53,2,Praise
+5,POST-5-2,LinkedIn,My customer service was poor. People reality difficult. service.,2025-03-09T17:49:53,2,Praise
+5,POST-5-3,Twitter,My credit card benefits was poor. Cut course assume. rate.,2025-02-20T17:49:53,2,Praise
+5,POST-5-4,Instagram,My credit card benefits was poor. Agree any live ever perform until. service.,2025-01-27T17:49:53,2,Praise
+6,POST-6-0,LinkedIn,My loan application was excellent. Present accept lead including feeling sport. service.,2025-01-10T17:49:53,5,Praise
+6,POST-6-1,Twitter,My loan application was excellent. Focus over place our have. rate.,2025-02-23T17:49:53,5,Inquiry
+6,POST-6-2,Twitter,My credit card benefits was excellent. Require forward traditional respond into investment generation. rate.,2025-01-31T17:49:53,5,Inquiry
+6,POST-6-3,Twitter,My customer service was excellent. Radio nothing product man list line. approval.,2025-02-11T17:49:53,4,Feedback
+6,POST-6-4,Twitter,My customer service was excellent. In too bank interesting seek those. fees.,2025-02-06T17:49:53,5,Feedback
+7,POST-7-0,LinkedIn,My credit card benefits was poor. Yard avoid certain charge however. fees.,2025-02-09T17:49:53,3,Inquiry
+7,POST-7-1,LinkedIn,My customer service was poor. Stage determine management should show. approval.,2025-02-15T17:49:53,2,Complaint
+7,POST-7-2,Facebook,My investment advice was poor. Finish growth foreign show. interest.,2025-01-17T17:49:53,2,Recommendation
+7,POST-7-3,LinkedIn,My investment advice was poor. Group PM moment design. service.,2025-02-12T17:49:53,3,Complaint
+7,POST-7-4,Instagram,My loan application was poor. Relate field short provide. fees.,2025-02-20T17:49:53,1,Inquiry
+8,POST-8-0,LinkedIn,My loan application was poor. Financial decade listen. approval.,2025-01-12T17:49:53,2,Recommendation
+8,POST-8-1,LinkedIn,My credit card benefits was poor. Team plan I course realize check thus. service.,2025-02-28T17:49:53,1,Complaint
+8,POST-8-2,Twitter,My credit card benefits was poor. Page while outside name interview. interest.,2025-01-25T17:49:53,1,Inquiry
+8,POST-8-3,Instagram,My online banking experience was poor. Many form one responsibility employee. interest.,2025-02-19T17:49:53,1,Complaint
+8,POST-8-4,Facebook,My loan application was poor. Discussion ground term collection girl nation television. rate.,2025-01-07T17:49:53,1,Recommendation
+9,POST-9-0,Instagram,My customer service was excellent. Reduce ready compare once present relate. interest.,2025-03-01T17:49:53,5,Praise
+9,POST-9-1,Twitter,My online banking experience was excellent. Treat full leader natural. service.,2025-02-28T17:49:53,5,Praise
+9,POST-9-2,LinkedIn,My credit card benefits was excellent. Bring board sort spend way fine off. app.,2025-02-12T17:49:53,5,Feedback
+9,POST-9-3,LinkedIn,My credit card benefits was excellent. Many appear field firm throughout language short. app.,2025-01-24T17:49:53,5,Feedback
+9,POST-9-4,Facebook,My loan application was excellent. Human gun author pressure develop paper own. fees.,2025-03-14T17:49:53,5,Feedback
+10,POST-10-0,LinkedIn,My customer service was excellent. Action finish keep run modern. approval.,2025-01-30T17:49:53,5,Recommendation
+10,POST-10-1,LinkedIn,My online banking experience was excellent. Lot several make. app.,2025-02-17T17:49:53,4,Recommendation
+10,POST-10-2,Facebook,My credit card benefits was excellent. Operation small staff no rest rest finally key. rate.,2025-03-05T17:49:53,4,Inquiry
+10,POST-10-3,LinkedIn,My online banking experience was excellent. Because project never spend wrong development else. service.,2025-02-05T17:49:53,5,Complaint
+10,POST-10-4,LinkedIn,My credit card benefits was excellent. Follow form necessary bar usually professional. approval.,2025-02-19T17:49:53,5,Complaint
+11,POST-11-0,LinkedIn,My customer service was poor. Field into pretty modern add budget gas particular. rate.,2025-03-09T17:49:53,2,Praise
+11,POST-11-1,LinkedIn,My loan application was poor. Put real likely federal. interest.,2025-03-09T17:49:53,1,Praise
+11,POST-11-2,Facebook,My investment advice was poor. Teach into growth position part camera list. interest.,2025-01-10T17:49:53,1,Praise
+11,POST-11-3,Facebook,My investment advice was poor. Last open of rate per against say. interest.,2025-02-02T17:49:53,1,Inquiry
+11,POST-11-4,Facebook,My customer service was poor. Answer section oil civil thank son trouble. fees.,2025-02-08T17:49:53,2,Praise
+12,POST-12-0,LinkedIn,My loan application was poor. Soldier dog hotel standard. interest.,2025-02-22T17:49:53,2,Feedback
+12,POST-12-1,LinkedIn,My credit card benefits was poor. Approach bar more finally. rate.,2025-02-08T17:49:53,1,Praise
+12,POST-12-2,Facebook,My customer service was poor. Unit against nearly role lead natural face. app.,2025-03-08T17:49:53,1,Praise
+12,POST-12-3,Facebook,My credit card benefits was poor. Thing final not nature political. app.,2025-02-05T17:49:53,1,Feedback
+12,POST-12-4,Twitter,My loan application was poor. Thought claim woman American team. rate.,2025-01-11T17:49:53,2,Complaint
+13,POST-13-0,Twitter,My credit card benefits was poor. Home better town. service.,2025-03-08T17:49:53,4,Praise
+13,POST-13-1,Twitter,My investment advice was poor. Can thus skin thus Mrs apply financial. approval.,2025-03-19T17:49:53,3,Recommendation
+13,POST-13-2,Twitter,My customer service was poor. Half TV short. approval.,2025-01-18T17:49:53,2,Inquiry
+13,POST-13-3,Instagram,My loan application was poor. Final cold several. app.,2025-01-31T17:49:53,3,Feedback
+13,POST-13-4,Twitter,My online banking experience was poor. Today conference part either condition tough prepare. rate.,2025-02-06T17:49:53,4,Inquiry
+14,POST-14-0,Twitter,My online banking experience was excellent. International available opportunity movement. rate.,2025-01-10T17:49:53,5,Praise
+14,POST-14-1,Twitter,My customer service was excellent. Letter travel as part service use power. interest.,2025-03-06T17:49:53,5,Praise
+14,POST-14-2,Instagram,My online banking experience was excellent. Attention main east room. app.,2025-03-05T17:49:53,4,Inquiry
+14,POST-14-3,Instagram,My investment advice was excellent. Represent environmental factor many season son he doctor. rate.,2025-02-19T17:49:53,5,Feedback
+14,POST-14-4,Facebook,My online banking experience was excellent. Authority president onto Republican. app.,2025-01-23T17:49:53,5,Praise
+15,POST-15-0,Twitter,My credit card benefits was poor. So soon imagine hour whose appear soldier against. approval.,2025-03-24T17:49:53,1,Complaint
+15,POST-15-1,Twitter,My investment advice was poor. Evidence design toward race look reason how again. approval.,2024-12-27T17:49:53,1,Inquiry
+15,POST-15-2,Facebook,My loan application was poor. Man too point always. app.,2025-03-17T17:49:53,1,Complaint
+15,POST-15-3,Twitter,My loan application was poor. Player garden act edge protect. fees.,2025-02-09T17:49:53,2,Complaint
+15,POST-15-4,Facebook,My online banking experience was poor. Suddenly perhaps popular middle thousand trade scientist. fees.,2025-01-14T17:49:53,2,Inquiry
+16,POST-16-0,Instagram,My loan application was excellent. Ever inside charge wide agreement common particularly. service.,2025-03-17T17:49:53,3,Complaint
+16,POST-16-1,Twitter,My online banking experience was excellent. Need machine happen forward stay science another. fees.,2025-01-20T17:49:53,3,Recommendation
+16,POST-16-2,Facebook,My online banking experience was excellent. Her six physical officer community under. approval.,2024-12-27T17:49:53,5,Recommendation
+16,POST-16-3,LinkedIn,My credit card benefits was excellent. Course city fish occur hear night animal. approval.,2025-01-31T17:49:53,5,Praise
+16,POST-16-4,Twitter,My investment advice was excellent. Day service him. service.,2025-01-11T17:49:53,5,Praise
+17,POST-17-0,Facebook,My loan application was poor. Ahead enjoy against bag tough. rate.,2025-03-14T17:49:53,3,Recommendation
+17,POST-17-1,LinkedIn,My credit card benefits was poor. Opportunity but parent establish agree all. service.,2025-03-21T17:49:53,3,Praise
+17,POST-17-2,Instagram,My credit card benefits was poor. Budget newspaper Democrat personal. rate.,2025-03-23T17:49:53,4,Feedback
+17,POST-17-3,LinkedIn,My online banking experience was poor. Fly middle stay mean born beautiful. approval.,2025-03-21T17:49:53,4,Recommendation
+17,POST-17-4,Twitter,My loan application was poor. Talk agency behavior myself heavy certainly tend. app.,2025-02-13T17:49:53,2,Inquiry
+18,POST-18-0,Twitter,My online banking experience was excellent. Blue everybody involve difference area walk. fees.,2025-03-09T17:49:53,3,Inquiry
+18,POST-18-1,Instagram,My online banking experience was excellent. Practice work any discover property president you southern. approval.,2025-02-11T17:49:53,5,Inquiry
+18,POST-18-2,Twitter,My customer service was excellent. Arrive why even. fees.,2025-03-20T17:49:53,3,Feedback
+18,POST-18-3,Facebook,My online banking experience was excellent. Once leave talk college. rate.,2025-03-02T17:49:53,4,Complaint
+18,POST-18-4,Twitter,My loan application was excellent. Have pretty during mention near produce lawyer. interest.,2025-01-05T17:49:53,4,Inquiry
+19,POST-19-0,Instagram,My loan application was poor. Note item indicate. approval.,2025-03-06T17:49:53,3,Feedback
+19,POST-19-1,Facebook,My online banking experience was poor. Reach send media truth our billion. fees.,2025-03-13T17:49:53,4,Complaint
+19,POST-19-2,Facebook,My credit card benefits was poor. Structure cause improve. approval.,2025-01-06T17:49:53,2,Recommendation
+19,POST-19-3,Facebook,My loan application was poor. Whose owner camera writer. fees.,2025-01-21T17:49:53,2,Praise
+19,POST-19-4,Instagram,My investment advice was poor. Young tax memory those condition collection. rate.,2025-03-11T17:49:53,3,Complaint
+20,POST-20-0,Facebook,My customer service was poor. Me eat interview rise. rate.,2025-02-10T17:49:53,2,Recommendation
+20,POST-20-1,Facebook,My credit card benefits was poor. Yourself usually vote second mind. service.,2025-01-26T17:49:53,2,Inquiry
+20,POST-20-2,Instagram,My credit card benefits was poor. Dinner growth bill interesting building page door. interest.,2025-01-18T17:49:53,2,Feedback
+20,POST-20-3,LinkedIn,My investment advice was poor. During onto allow carry. fees.,2025-01-27T17:49:53,2,Recommendation
+20,POST-20-4,Facebook,My credit card benefits was poor. Compare hour billion industry note each administration. approval.,2024-12-28T17:49:53,2,Feedback
+21,POST-21-0,LinkedIn,My online banking experience was poor. Nearly mouth fly sea business notice tend word. service.,2025-03-06T17:49:53,2,Feedback
+21,POST-21-1,Twitter,My investment advice was poor. Social knowledge cell also government. app.,2025-02-04T17:49:53,2,Feedback
+21,POST-21-2,LinkedIn,My investment advice was poor. Process personal yes painting although. rate.,2025-03-23T17:49:53,2,Inquiry
+21,POST-21-3,Instagram,My online banking experience was poor. Less loss away. approval.,2025-03-08T17:49:53,1,Feedback
+21,POST-21-4,Facebook,My credit card benefits was poor. Watch affect body professor enough loss wait. service.,2025-02-12T17:49:53,1,Complaint
+22,POST-22-0,Twitter,My online banking experience was excellent. Community culture dinner modern. service.,2025-02-18T17:49:53,5,Complaint
+22,POST-22-1,Twitter,My loan application was excellent. Remain control even parent remain forget. fees.,2025-01-06T17:49:53,4,Inquiry
+22,POST-22-2,LinkedIn,My online banking experience was excellent. Money why glass run. service.,2025-01-08T17:49:53,4,Feedback
+22,POST-22-3,Instagram,My online banking experience was excellent. Or cultural well operation agency civil drive official. fees.,2025-02-15T17:49:53,5,Inquiry
+22,POST-22-4,Twitter,My credit card benefits was excellent. Trouble summer bring fine enough. app.,2025-01-06T17:49:53,5,Inquiry
+23,POST-23-0,Instagram,My loan application was poor. Way generation model wear field thought carry until. app.,2025-02-10T17:49:53,3,Praise
+23,POST-23-1,LinkedIn,My credit card benefits was poor. Blood trouble talk born which daughter. app.,2025-01-08T17:49:53,3,Complaint
+23,POST-23-2,Twitter,My investment advice was poor. First community list offer traditional. service.,2025-02-18T17:49:53,4,Complaint
+23,POST-23-3,Instagram,My loan application was poor. Institution forget local product test hold. approval.,2024-12-31T17:49:53,3,Feedback
+23,POST-23-4,Instagram,My customer service was poor. Wind out cost reason live contain these southern. interest.,2025-01-29T17:49:53,4,Recommendation
+24,POST-24-0,Instagram,My loan application was poor. How make alone a democratic could. app.,2025-03-06T17:49:53,2,Recommendation
+24,POST-24-1,Instagram,My loan application was poor. During owner capital here. service.,2025-01-25T17:49:53,4,Inquiry
+24,POST-24-2,Instagram,My investment advice was poor. Late those well care. rate.,2025-02-23T17:49:53,2,Complaint
+24,POST-24-3,Instagram,My credit card benefits was poor. Paper sign maybe. rate.,2025-03-02T17:49:53,3,Praise
+24,POST-24-4,Twitter,My credit card benefits was poor. Fall push leg act herself point. service.,2025-03-25T17:49:53,3,Praise
+25,POST-25-0,LinkedIn,My loan application was excellent. Federal side off when computer new occur seat. interest.,2025-03-14T17:49:53,4,Feedback
+25,POST-25-1,Instagram,My credit card benefits was excellent. Method than institution. service.,2025-01-08T17:49:53,5,Praise
+25,POST-25-2,LinkedIn,My loan application was excellent. Future ahead quality store. approval.,2025-01-24T17:49:53,5,Inquiry
+25,POST-25-3,Instagram,My online banking experience was excellent. There memory interest go state. rate.,2025-02-15T17:49:53,3,Feedback
+25,POST-25-4,Instagram,My online banking experience was excellent. Talk upon between some fish. fees.,2025-03-12T17:49:53,4,Feedback
+26,POST-26-0,Facebook,My investment advice was excellent. Politics radio speak coach seem. rate.,2025-03-02T17:49:53,5,Complaint
+26,POST-26-1,LinkedIn,My loan application was excellent. Professor region assume where president. rate.,2025-03-19T17:49:53,5,Complaint
+26,POST-26-2,Instagram,My online banking experience was excellent. Now power always their push section. approval.,2025-01-05T17:49:53,5,Complaint
+26,POST-26-3,Twitter,My investment advice was excellent. Nation a suddenly. fees.,2025-02-10T17:49:53,5,Feedback
+26,POST-26-4,LinkedIn,My loan application was excellent. Opportunity response official guess. rate.,2025-01-06T17:49:53,4,Recommendation
+27,POST-27-0,Instagram,My customer service was excellent. Past else country great huge. interest.,2025-03-22T17:49:53,5,Praise
+27,POST-27-1,LinkedIn,My customer service was excellent. Matter glass walk friend room. app.,2025-01-30T17:49:53,4,Complaint
+27,POST-27-2,Instagram,My investment advice was excellent. Others memory week you accept memory. interest.,2025-03-10T17:49:53,5,Feedback
+27,POST-27-3,Facebook,My credit card benefits was excellent. Possible account dog most system account. interest.,2024-12-30T17:49:53,4,Inquiry
+27,POST-27-4,Instagram,My customer service was excellent. Relate here organization ready personal best picture study. app.,2025-01-30T17:49:53,5,Feedback
+28,POST-28-0,Facebook,My loan application was excellent. Several season remember read food. app.,2025-03-20T17:49:53,4,Inquiry
+28,POST-28-1,Facebook,My investment advice was excellent. Friend experience follow message if scientist. approval.,2025-01-25T17:49:53,4,Recommendation
+28,POST-28-2,LinkedIn,My online banking experience was excellent. Want left week rather. app.,2025-03-02T17:49:53,5,Inquiry
+28,POST-28-3,LinkedIn,My customer service was excellent. As next knowledge hour. service.,2024-12-31T17:49:53,5,Praise
+28,POST-28-4,LinkedIn,My online banking experience was excellent. According explain floor smile him. rate.,2025-02-26T17:49:53,4,Recommendation
+29,POST-29-0,LinkedIn,My loan application was poor. Thus knowledge idea agree owner environment develop. app.,2025-02-05T17:49:53,3,Complaint
+29,POST-29-1,Twitter,My loan application was poor. Between see machine consider pretty control. service.,2025-01-16T17:49:53,1,Inquiry
+29,POST-29-2,Instagram,My investment advice was poor. Hair compare wonder only thought could kitchen edge. service.,2025-01-21T17:49:53,3,Complaint
+29,POST-29-3,LinkedIn,My investment advice was poor. Week traditional under your season effect whole quality. service.,2025-01-22T17:49:53,3,Feedback
+29,POST-29-4,Instagram,My investment advice was poor. Necessary someone play upon resource from. app.,2025-01-26T17:49:53,3,Feedback
+30,POST-30-0,LinkedIn,My online banking experience was poor. Structure state speak range investment appear room own. approval.,2025-03-02T17:49:53,3,Praise
+30,POST-30-1,Instagram,My online banking experience was poor. Something medical talk option. rate.,2025-03-05T17:49:53,2,Inquiry
+30,POST-30-2,LinkedIn,My investment advice was poor. Ever plan admit the. rate.,2025-02-14T17:49:53,2,Praise
+30,POST-30-3,Instagram,My credit card benefits was poor. Loss race model group mean. rate.,2025-03-04T17:49:53,4,Praise
+30,POST-30-4,LinkedIn,My customer service was poor. Set focus general perform soldier say could. interest.,2025-03-07T17:49:53,3,Praise
+31,POST-31-0,Twitter,My loan application was excellent. Lawyer computer nation against become central at include. interest.,2024-12-30T17:49:53,5,Praise
+31,POST-31-1,LinkedIn,My investment advice was excellent. Wish try several cold consider hair. service.,2025-01-22T17:49:53,4,Recommendation
+31,POST-31-2,Instagram,My investment advice was excellent. Movement happen woman human. rate.,2025-03-19T17:49:53,4,Inquiry
+31,POST-31-3,LinkedIn,My investment advice was excellent. Realize the until likely reach. rate.,2025-03-15T17:49:53,5,Praise
+31,POST-31-4,LinkedIn,My investment advice was excellent. Whose start decide two this fill. app.,2025-03-16T17:49:53,5,Recommendation
+32,POST-32-0,Facebook,My online banking experience was poor. Company police weight rule red hotel foreign. fees.,2025-02-25T17:49:53,2,Praise
+32,POST-32-1,Facebook,My online banking experience was poor. Property example class local especially buy she into. app.,2025-01-20T17:49:53,3,Recommendation
+32,POST-32-2,Facebook,My investment advice was poor. Back institution like difference indicate. approval.,2025-02-03T17:49:53,2,Recommendation
+32,POST-32-3,Facebook,My customer service was poor. North thing draw no feeling age. approval.,2025-03-16T17:49:53,2,Praise
+32,POST-32-4,Instagram,My loan application was poor. End indicate lot recently. rate.,2025-03-21T17:49:53,2,Feedback
+33,POST-33-0,Instagram,My investment advice was poor. Forward them away should future task. approval.,2025-01-28T17:49:53,2,Inquiry
+33,POST-33-1,Facebook,My online banking experience was poor. Ready continue wonder hot speak. fees.,2025-01-11T17:49:53,3,Complaint
+33,POST-33-2,Facebook,My credit card benefits was poor. Lose know serve even reason fact move police. interest.,2025-03-13T17:49:53,3,Recommendation
+33,POST-33-3,Facebook,My credit card benefits was poor. Beat draw hair bank visit ago. service.,2025-03-23T17:49:53,2,Complaint
+33,POST-33-4,LinkedIn,My loan application was poor. Series operation yourself grow. rate.,2024-12-30T17:49:53,3,Inquiry
+34,POST-34-0,Instagram,My online banking experience was excellent. Oil growth service. approval.,2025-01-31T17:49:53,4,Praise
+34,POST-34-1,Instagram,My credit card benefits was excellent. Suddenly whole condition movie former authority. fees.,2025-03-13T17:49:53,4,Praise
+34,POST-34-2,Instagram,My customer service was excellent. Party court thus share either go scene clear. service.,2025-02-24T17:49:53,5,Feedback
+34,POST-34-3,Facebook,My investment advice was excellent. Morning plan themselves yourself everybody material. approval.,2025-03-10T17:49:53,5,Feedback
+34,POST-34-4,LinkedIn,My customer service was excellent. Explain development now before similar south truth want. rate.,2025-02-12T17:49:53,5,Inquiry
+35,POST-35-0,Twitter,My loan application was poor. Author economy treat them not firm fast. fees.,2025-03-11T17:49:53,1,Praise
+35,POST-35-1,LinkedIn,My online banking experience was poor. Eight rate price arrive bit much. fees.,2025-02-24T17:49:53,1,Feedback
+35,POST-35-2,Facebook,My customer service was poor. Difficult agency ready music no skill ground. service.,2025-01-11T17:49:53,1,Feedback
+35,POST-35-3,LinkedIn,My investment advice was poor. Picture drop number social be evidence. rate.,2025-02-08T17:49:53,3,Recommendation
+35,POST-35-4,LinkedIn,My loan application was poor. Rule Mr activity because beautiful subject agreement. service.,2025-03-24T17:49:53,1,Praise
+36,POST-36-0,LinkedIn,My credit card benefits was excellent. Center letter same not. interest.,2025-01-09T17:49:53,4,Praise
+36,POST-36-1,Instagram,My loan application was excellent. Daughter their at current race few. app.,2025-01-15T17:49:53,5,Recommendation
+36,POST-36-2,Facebook,My loan application was excellent. Majority spend young at. app.,2025-03-07T17:49:53,5,Praise
+36,POST-36-3,Twitter,My customer service was excellent. Consider process reflect officer seven traditional. interest.,2025-02-11T17:49:53,4,Inquiry
+36,POST-36-4,Instagram,My online banking experience was excellent. Friend happy evening agreement summer make such Mr. app.,2025-03-14T17:49:53,5,Praise
+37,POST-37-0,Twitter,My credit card benefits was excellent. Area carry former commercial. app.,2025-02-28T17:49:53,3,Recommendation
+37,POST-37-1,Facebook,My investment advice was excellent. Dark conference style law least. app.,2025-01-28T17:49:53,4,Praise
+37,POST-37-2,Facebook,My online banking experience was excellent. Option particularly ahead first student cup. app.,2024-12-26T17:49:53,3,Feedback
+37,POST-37-3,Twitter,My investment advice was excellent. Control simple skin because child professional magazine. rate.,2025-02-17T17:49:53,4,Inquiry
+37,POST-37-4,Facebook,My online banking experience was excellent. Book eight break. interest.,2025-03-16T17:49:53,4,Inquiry
+38,POST-38-0,Facebook,My online banking experience was poor. Card TV land degree happen. rate.,2024-12-30T17:49:53,2,Complaint
+38,POST-38-1,LinkedIn,My credit card benefits was poor. Person always five world yourself red but. service.,2024-12-31T17:49:53,2,Feedback
+38,POST-38-2,LinkedIn,My online banking experience was poor. Decision activity ahead use two item. fees.,2025-01-05T17:49:53,2,Praise
+38,POST-38-3,Instagram,My credit card benefits was poor. West cut service bank sea. service.,2025-02-14T17:49:53,1,Inquiry
+38,POST-38-4,Facebook,My credit card benefits was poor. Either fear meeting the suffer impact. fees.,2025-01-28T17:49:53,2,Recommendation
+39,POST-39-0,LinkedIn,My loan application was poor. Writer learn cultural gas training. interest.,2025-03-14T17:49:53,4,Complaint
+39,POST-39-1,Instagram,My loan application was poor. Policy stock strong type. app.,2025-02-04T17:49:53,4,Feedback
+39,POST-39-2,Instagram,My credit card benefits was poor. Between easy PM enjoy health. fees.,2025-03-19T17:49:53,4,Recommendation
+39,POST-39-3,Twitter,My online banking experience was poor. Wide expect believe sea expect democratic. fees.,2025-01-12T17:49:53,4,Feedback
+39,POST-39-4,Instagram,My online banking experience was poor. Evidence half simple knowledge. service.,2025-02-16T17:49:53,3,Feedback
+40,POST-40-0,Twitter,My online banking experience was excellent. Good light company drive particularly material. rate.,2025-01-12T17:49:53,5,Praise
+40,POST-40-1,Twitter,My loan application was excellent. Large instead past throughout remember. fees.,2024-12-30T17:49:53,5,Recommendation
+40,POST-40-2,Instagram,My investment advice was excellent. Artist individual crime when source local. rate.,2025-01-14T17:49:53,5,Inquiry
+40,POST-40-3,Facebook,My customer service was excellent. Daughter poor often. service.,2025-02-28T17:49:53,5,Feedback
+40,POST-40-4,Instagram,My investment advice was excellent. Serious then blood. app.,2025-01-27T17:49:53,5,Feedback
+41,POST-41-0,Facebook,My customer service was poor. Notice explain Republican trip movie American bank. app.,2025-01-05T17:49:53,1,Feedback
+41,POST-41-1,Instagram,My credit card benefits was poor. Data any include song during. interest.,2025-02-01T17:49:53,1,Feedback
+41,POST-41-2,Instagram,My investment advice was poor. Notice meet into do. approval.,2025-01-30T17:49:53,2,Feedback
+41,POST-41-3,Facebook,My online banking experience was poor. Ball especially you far yeah low. fees.,2025-01-02T17:49:53,1,Inquiry
+41,POST-41-4,LinkedIn,My credit card benefits was poor. Save whether my stand but smile drop. service.,2025-01-23T17:49:53,2,Praise
+42,POST-42-0,LinkedIn,My investment advice was poor. Mean general tend scene deep audience. fees.,2025-01-08T17:49:53,1,Recommendation
+42,POST-42-1,Twitter,My customer service was poor. President simple TV garden. rate.,2025-01-31T17:49:53,1,Recommendation
+42,POST-42-2,LinkedIn,My loan application was poor. Technology action worker every fly serious. fees.,2025-03-04T17:49:53,2,Praise
+42,POST-42-3,Instagram,My investment advice was poor. From offer bag right top professional produce. service.,2025-03-02T17:49:53,1,Praise
+42,POST-42-4,Facebook,My investment advice was poor. Audience describe candidate. approval.,2025-03-09T17:49:53,1,Praise
+43,POST-43-0,Twitter,My customer service was poor. Body represent book ready understand create. interest.,2025-03-05T17:49:53,1,Feedback
+43,POST-43-1,Facebook,My credit card benefits was poor. Either many item wonder democratic their nation. interest.,2025-01-12T17:49:53,1,Feedback
+43,POST-43-2,Twitter,My online banking experience was poor. Indicate glass source traditional value. app.,2025-01-02T17:49:53,1,Feedback
+43,POST-43-3,Twitter,My loan application was poor. Social consumer where and also shoulder could. fees.,2025-01-28T17:49:53,2,Recommendation
+43,POST-43-4,Instagram,My customer service was poor. Method sure type line ahead animal. rate.,2025-03-14T17:49:53,1,Inquiry
+44,POST-44-0,Facebook,My investment advice was poor. Health blue different. approval.,2025-02-24T17:49:53,1,Praise
+44,POST-44-1,Instagram,My loan application was poor. Feel building way be. fees.,2025-02-20T17:49:53,1,Complaint
+44,POST-44-2,LinkedIn,My loan application was poor. Common husband method wait current tree. service.,2025-02-25T17:49:53,2,Complaint
+44,POST-44-3,LinkedIn,My loan application was poor. Conference behavior country small. interest.,2025-03-11T17:49:53,2,Praise
+44,POST-44-4,LinkedIn,My customer service was poor. Lot threat whether look knowledge or use. fees.,2025-03-08T17:49:53,1,Complaint
+45,POST-45-0,Twitter,My credit card benefits was excellent. Sell painting appear style. fees.,2025-03-17T17:49:53,5,Inquiry
+45,POST-45-1,LinkedIn,My customer service was excellent. Drug safe young successful fast loss authority. fees.,2025-03-05T17:49:53,4,Recommendation
+45,POST-45-2,Instagram,My credit card benefits was excellent. Argue statement foot imagine enough question ago. interest.,2025-03-05T17:49:53,5,Complaint
+45,POST-45-3,Twitter,My credit card benefits was excellent. No state cover condition. interest.,2025-02-08T17:49:53,4,Recommendation
+45,POST-45-4,Facebook,My credit card benefits was excellent. Fear amount common material drug decide management. interest.,2025-01-25T17:49:53,5,Recommendation
+46,POST-46-0,Instagram,My online banking experience was excellent. Organization let that approach charge. service.,2025-01-26T17:49:53,4,Praise
+46,POST-46-1,Instagram,My customer service was excellent. Draw cell film. app.,2025-02-08T17:49:53,4,Feedback
+46,POST-46-2,Instagram,My online banking experience was excellent. Else memory pattern physical. rate.,2025-03-14T17:49:53,5,Inquiry
+46,POST-46-3,Facebook,My credit card benefits was excellent. Law condition serve more air course themselves power. app.,2025-02-22T17:49:53,3,Complaint
+46,POST-46-4,LinkedIn,My investment advice was excellent. Race song view reality. approval.,2025-02-08T17:49:53,5,Feedback
+47,POST-47-0,LinkedIn,My customer service was poor. Black fill light media state. rate.,2025-01-05T17:49:53,1,Recommendation
+47,POST-47-1,Instagram,My online banking experience was poor. Smile particular oil finish near red. rate.,2024-12-31T17:49:53,2,Complaint
+47,POST-47-2,Instagram,My investment advice was poor. Kitchen produce boy him range born along. rate.,2025-01-16T17:49:53,1,Recommendation
+47,POST-47-3,LinkedIn,My credit card benefits was poor. Report painting enough anyone leave down close. app.,2025-02-15T17:49:53,2,Complaint
+47,POST-47-4,Facebook,My customer service was poor. Team with local then address officer security. service.,2025-01-21T17:49:53,3,Complaint
+48,POST-48-0,LinkedIn,My credit card benefits was poor. Science bad force edge study interesting. rate.,2025-01-11T17:49:53,1,Recommendation
+48,POST-48-1,Twitter,My online banking experience was poor. According I agree move again impact. rate.,2025-02-17T17:49:53,1,Praise
+48,POST-48-2,LinkedIn,My loan application was poor. National fish road during prepare break. approval.,2025-01-04T17:49:53,1,Complaint
+48,POST-48-3,Twitter,My credit card benefits was poor. Spring campaign entire coach education then quite. app.,2025-02-16T17:49:53,1,Complaint
+48,POST-48-4,LinkedIn,My investment advice was poor. Like factor sure professional carry. rate.,2025-03-07T17:49:53,1,Feedback
+49,POST-49-0,LinkedIn,My loan application was poor. Prevent hour stop toward mouth significant woman. app.,2025-01-26T17:49:53,1,Inquiry
+49,POST-49-1,Twitter,My customer service was poor. Claim discussion size development. fees.,2025-02-26T17:49:53,1,Inquiry
+49,POST-49-2,Facebook,My credit card benefits was poor. Character air coach American power week. approval.,2025-03-21T17:49:53,1,Feedback
+49,POST-49-3,LinkedIn,My loan application was poor. Near show artist even drive forward. interest.,2025-02-02T17:49:53,2,Praise
+49,POST-49-4,Instagram,My credit card benefits was poor. Student part billion dog president. service.,2025-01-07T17:49:53,1,Feedback
+50,POST-50-0,LinkedIn,My investment advice was excellent. Suffer brother they. app.,2025-01-28T17:49:53,4,Feedback
+50,POST-50-1,Twitter,My investment advice was excellent. Free shake various sort campaign speech nor. approval.,2025-03-08T17:49:53,5,Feedback
+50,POST-50-2,Facebook,My credit card benefits was excellent. Fly yes spring agency company how individual base. service.,2025-01-28T17:49:53,5,Praise
+50,POST-50-3,Instagram,My online banking experience was excellent. Center product student night move poor point. interest.,2025-03-13T17:49:53,5,Complaint
+50,POST-50-4,Instagram,My online banking experience was excellent. Available focus blood. service.,2025-01-18T17:49:53,5,Complaint
+51,POST-51-0,Instagram,My online banking experience was excellent. Edge ask good only drug. service.,2025-01-09T17:49:53,5,Feedback
+51,POST-51-1,Facebook,My loan application was excellent. Sort control without one. interest.,2025-01-29T17:49:53,4,Complaint
+51,POST-51-2,LinkedIn,My loan application was excellent. Off human agent free member. fees.,2025-01-08T17:49:53,5,Recommendation
+51,POST-51-3,Twitter,My online banking experience was excellent. Human crime grow anyone doctor economy with. approval.,2025-03-14T17:49:53,5,Inquiry
+51,POST-51-4,Instagram,My online banking experience was excellent. Life professional anything truth property hope service. rate.,2025-01-21T17:49:53,5,Inquiry
+52,POST-52-0,LinkedIn,My investment advice was excellent. Account science simple trial sell. approval.,2025-03-20T17:49:53,3,Inquiry
+52,POST-52-1,LinkedIn,My investment advice was excellent. Race theory opportunity. interest.,2025-03-03T17:49:53,4,Praise
+52,POST-52-2,LinkedIn,My loan application was excellent. Any make discover even within above account cause. app.,2025-03-07T17:49:53,3,Complaint
+52,POST-52-3,LinkedIn,My loan application was excellent. Fill skill word happen charge agent have major. app.,2025-01-06T17:49:53,4,Inquiry
+52,POST-52-4,LinkedIn,My credit card benefits was excellent. Choice author world leader. fees.,2025-02-07T17:49:53,4,Feedback
+53,POST-53-0,LinkedIn,My investment advice was poor. Month success century seven follow situation. app.,2025-01-19T17:49:53,2,Feedback
+53,POST-53-1,Instagram,My credit card benefits was poor. Artist line tree. service.,2025-02-03T17:49:53,4,Complaint
+53,POST-53-2,Facebook,My credit card benefits was poor. Note why major help. interest.,2025-02-17T17:49:53,2,Recommendation
+53,POST-53-3,Facebook,My customer service was poor. Institution down concern kid the contain section. approval.,2025-01-29T17:49:53,3,Inquiry
+53,POST-53-4,Twitter,My loan application was poor. Resource head dog agreement big. fees.,2025-03-16T17:49:53,2,Praise
+54,POST-54-0,Facebook,My credit card benefits was poor. Base forward short her gas. app.,2025-03-10T17:49:53,2,Praise
+54,POST-54-1,Facebook,My loan application was poor. Worker song design agreement those read back. rate.,2025-03-01T17:49:53,4,Recommendation
+54,POST-54-2,Instagram,My loan application was poor. Throughout establish whose human away. rate.,2025-01-29T17:49:53,2,Inquiry
+54,POST-54-3,Instagram,My investment advice was poor. Training great thought from hand appear opportunity specific. app.,2025-03-21T17:49:53,2,Praise
+54,POST-54-4,Facebook,My credit card benefits was poor. Knowledge building road. fees.,2025-03-15T17:49:53,2,Complaint
+55,POST-55-0,LinkedIn,My online banking experience was poor. City marriage finish continue front wind common. approval.,2025-01-04T17:49:53,3,Inquiry
+55,POST-55-1,Twitter,My loan application was poor. Hot less practice seem sea. app.,2025-02-10T17:49:53,1,Praise
+55,POST-55-2,Facebook,My credit card benefits was poor. Point sort event need offer man inside. interest.,2025-02-12T17:49:53,1,Feedback
+55,POST-55-3,LinkedIn,My credit card benefits was poor. Across feeling my soldier manage. approval.,2025-01-18T17:49:53,3,Praise
+55,POST-55-4,LinkedIn,My credit card benefits was poor. Manager adult trip activity clear. interest.,2025-01-27T17:49:53,3,Feedback
+56,POST-56-0,LinkedIn,My loan application was poor. Science trip civil condition trip. interest.,2025-01-05T17:49:53,1,Feedback
+56,POST-56-1,Facebook,My investment advice was poor. Before TV word arrive. interest.,2025-01-21T17:49:53,1,Feedback
+56,POST-56-2,Facebook,My investment advice was poor. Describe maybe enjoy fear physical. fees.,2025-02-06T17:49:53,1,Recommendation
+56,POST-56-3,Twitter,My credit card benefits was poor. Fish speak talk form score. interest.,2025-02-05T17:49:53,1,Complaint
+56,POST-56-4,Twitter,My investment advice was poor. Ready artist low section buy nothing. fees.,2025-02-06T17:49:53,2,Feedback
+57,POST-57-0,LinkedIn,My online banking experience was excellent. Single camera wish positive hand magazine. interest.,2025-01-11T17:49:53,5,Feedback
+57,POST-57-1,Instagram,My credit card benefits was excellent. Ten senior enter ground strong effort capital style. rate.,2025-01-23T17:49:53,3,Recommendation
+57,POST-57-2,LinkedIn,My customer service was excellent. Market receive woman voice free write reduce country. rate.,2025-03-18T17:49:53,3,Feedback
+57,POST-57-3,Twitter,My online banking experience was excellent. Response something control sea democratic. service.,2025-01-20T17:49:53,4,Feedback
+57,POST-57-4,Facebook,My credit card benefits was excellent. Anything section plant compare voice nice. interest.,2025-02-24T17:49:53,5,Feedback
+58,POST-58-0,Facebook,My online banking experience was excellent. Focus condition kind form. app.,2025-01-04T17:49:53,4,Feedback
+58,POST-58-1,Instagram,My loan application was excellent. Pressure air throughout care which. interest.,2024-12-27T17:49:53,4,Feedback
+58,POST-58-2,Instagram,My loan application was excellent. Decade tonight evidence because enjoy. approval.,2025-01-04T17:49:53,5,Praise
+58,POST-58-3,Instagram,My online banking experience was excellent. Keep degree drop apply crime. fees.,2025-03-09T17:49:53,5,Feedback
+58,POST-58-4,Instagram,My loan application was excellent. Small should sound high. rate.,2025-02-19T17:49:53,5,Feedback
+59,POST-59-0,LinkedIn,My loan application was poor. Itself focus much old. app.,2024-12-31T17:49:53,3,Complaint
+59,POST-59-1,Facebook,My customer service was poor. Wrong out worry for hot. fees.,2025-03-09T17:49:53,3,Complaint
+59,POST-59-2,Twitter,My loan application was poor. Need natural mission dark the. approval.,2025-03-24T17:49:53,1,Praise
+59,POST-59-3,LinkedIn,My online banking experience was poor. Upon feeling billion pretty range child American. fees.,2025-01-25T17:49:53,2,Recommendation
+59,POST-59-4,Twitter,My online banking experience was poor. Together participant child beat radio yourself. rate.,2025-02-28T17:49:53,2,Feedback
+60,POST-60-0,Twitter,My loan application was poor. Card court certain lot large analysis. fees.,2025-03-07T17:49:53,2,Recommendation
+60,POST-60-1,Facebook,My credit card benefits was poor. Positive guy bed meeting. fees.,2025-03-09T17:49:53,4,Praise
+60,POST-60-2,LinkedIn,My investment advice was poor. Like such break similar room budget pass whose. rate.,2025-02-20T17:49:53,4,Feedback
+60,POST-60-3,Facebook,My investment advice was poor. Water employee operation. service.,2025-02-07T17:49:53,4,Praise
+60,POST-60-4,Twitter,My loan application was poor. Later town evidence adult common unit letter. approval.,2025-03-03T17:49:53,4,Recommendation
+61,POST-61-0,Facebook,My online banking experience was excellent. Drop reason it boy too must. app.,2025-02-15T17:49:53,5,Inquiry
+61,POST-61-1,Twitter,My credit card benefits was excellent. Lose few coach happen. interest.,2025-02-15T17:49:53,5,Inquiry
+61,POST-61-2,Facebook,My loan application was excellent. Forget top who run. service.,2025-01-30T17:49:53,4,Recommendation
+61,POST-61-3,Facebook,My loan application was excellent. Base main best arrive lead space. app.,2025-01-27T17:49:53,3,Praise
+61,POST-61-4,Facebook,My credit card benefits was excellent. Mean say today old personal full nature. approval.,2025-01-29T17:49:53,3,Recommendation
+62,POST-62-0,Facebook,My investment advice was excellent. Get care case. approval.,2025-03-01T17:49:53,4,Feedback
+62,POST-62-1,LinkedIn,My online banking experience was excellent. Mouth short throw whether who thousand this. approval.,2024-12-31T17:49:53,5,Recommendation
+62,POST-62-2,Facebook,My customer service was excellent. Week late house turn budget nor lay. interest.,2025-03-21T17:49:53,4,Inquiry
+62,POST-62-3,LinkedIn,My investment advice was excellent. Relationship free light rule social. approval.,2025-03-12T17:49:53,4,Praise
+62,POST-62-4,Facebook,My loan application was excellent. Record hit law whole whether wall staff. app.,2025-01-16T17:49:53,5,Complaint
+63,POST-63-0,LinkedIn,My customer service was excellent. Phone consider professional home white over go our. fees.,2025-02-12T17:49:53,5,Recommendation
+63,POST-63-1,LinkedIn,My investment advice was excellent. Report center suddenly process. approval.,2025-01-18T17:49:53,5,Praise
+63,POST-63-2,Instagram,My loan application was excellent. Hope per product whatever. interest.,2024-12-27T17:49:53,5,Recommendation
+63,POST-63-3,Instagram,My credit card benefits was excellent. Simply decide support room him not world. rate.,2025-01-10T17:49:53,4,Feedback
+63,POST-63-4,Facebook,My loan application was excellent. Language real treat article society help join quite. approval.,2025-03-07T17:49:53,4,Recommendation
+64,POST-64-0,Facebook,My investment advice was excellent. Offer sister Congress local dinner. service.,2025-03-08T17:49:53,5,Recommendation
+64,POST-64-1,Instagram,My credit card benefits was excellent. Season matter movie travel information. service.,2025-01-16T17:49:53,4,Feedback
+64,POST-64-2,Twitter,My online banking experience was excellent. North executive result cut bag technology throw. fees.,2025-03-11T17:49:53,4,Praise
+64,POST-64-3,Twitter,My online banking experience was excellent. Course force interview white live western hour. app.,2025-02-06T17:49:53,5,Complaint
+64,POST-64-4,LinkedIn,My customer service was excellent. Top so site rise thousand knowledge example city. approval.,2025-02-25T17:49:53,5,Complaint
+65,POST-65-0,LinkedIn,My online banking experience was poor. Experience to beyond. approval.,2025-03-05T17:49:53,1,Inquiry
+65,POST-65-1,Instagram,My credit card benefits was poor. Hair common just foot. rate.,2025-03-21T17:49:53,1,Feedback
+65,POST-65-2,Instagram,My loan application was poor. Sort need well later college receive. service.,2025-03-06T17:49:53,2,Complaint
+65,POST-65-3,Instagram,My customer service was poor. Go guess ahead style. service.,2025-03-23T17:49:53,1,Inquiry
+65,POST-65-4,Twitter,My investment advice was poor. Region wonder voice building young public local. fees.,2025-01-27T17:49:53,2,Complaint
+66,POST-66-0,Instagram,My online banking experience was excellent. Ten or really plan use. rate.,2025-03-09T17:49:53,5,Inquiry
+66,POST-66-1,Instagram,My investment advice was excellent. North professional education trip matter speak general. approval.,2025-02-01T17:49:53,3,Complaint
+66,POST-66-2,LinkedIn,My credit card benefits was excellent. Open forward role include social newspaper letter. approval.,2024-12-27T17:49:53,5,Recommendation
+66,POST-66-3,LinkedIn,My credit card benefits was excellent. Plant effect suffer really. app.,2025-03-19T17:49:53,3,Feedback
+66,POST-66-4,Facebook,My credit card benefits was excellent. Space special stand college item. rate.,2025-01-04T17:49:53,4,Inquiry
+67,POST-67-0,Facebook,My loan application was poor. Single fish idea child protect herself learn left. interest.,2025-01-06T17:49:53,1,Inquiry
+67,POST-67-1,Instagram,My credit card benefits was poor. Allow democratic head doctor. fees.,2025-03-06T17:49:53,2,Praise
+67,POST-67-2,Instagram,My investment advice was poor. Page base grow blue trouble. app.,2025-02-02T17:49:53,1,Recommendation
+67,POST-67-3,LinkedIn,My credit card benefits was poor. During college whether possible. service.,2025-03-17T17:49:53,2,Complaint
+67,POST-67-4,Instagram,My online banking experience was poor. Student tough former low mouth. rate.,2025-03-18T17:49:53,1,Recommendation
+68,POST-68-0,Instagram,My online banking experience was poor. Enough visit local travel security girl. service.,2024-12-28T17:49:53,1,Praise
+68,POST-68-1,LinkedIn,My online banking experience was poor. Bed arrive standard yes despite. interest.,2025-01-30T17:49:53,1,Praise
+68,POST-68-2,Facebook,My investment advice was poor. Expect sing speak three generation charge. interest.,2025-03-11T17:49:53,1,Feedback
+68,POST-68-3,Twitter,My customer service was poor. Behavior crime Mr find cultural music. service.,2025-01-08T17:49:53,3,Complaint
+68,POST-68-4,Facebook,My credit card benefits was poor. Authority inside behind easy crime. service.,2025-02-15T17:49:53,3,Inquiry
+69,POST-69-0,Instagram,My customer service was poor. Method style himself recognize. interest.,2025-01-10T17:49:53,1,Praise
+69,POST-69-1,LinkedIn,My loan application was poor. Special accept born gun many TV. fees.,2025-01-17T17:49:53,3,Inquiry
+69,POST-69-2,LinkedIn,My online banking experience was poor. Between economic wish partner. rate.,2025-02-07T17:49:53,3,Recommendation
+69,POST-69-3,Facebook,My credit card benefits was poor. Evening those process message position them rate. service.,2025-01-06T17:49:53,2,Praise
+69,POST-69-4,Twitter,My online banking experience was poor. Again play realize high stage billion. interest.,2025-03-19T17:49:53,1,Complaint
+70,POST-70-0,Instagram,My credit card benefits was poor. Call letter service international over. approval.,2025-01-03T17:49:53,2,Complaint
+70,POST-70-1,Instagram,My customer service was poor. Control card especially American. service.,2025-01-16T17:49:53,3,Feedback
+70,POST-70-2,LinkedIn,My online banking experience was poor. Pm military good. service.,2025-02-15T17:49:53,3,Recommendation
+70,POST-70-3,Twitter,My loan application was poor. Best pressure about always. interest.,2025-03-15T17:49:53,1,Complaint
+70,POST-70-4,Twitter,My loan application was poor. Executive conference foot quickly radio put institution. service.,2025-02-03T17:49:53,1,Praise
+71,POST-71-0,LinkedIn,My online banking experience was excellent. History win career daughter bad past nature. rate.,2025-03-09T17:49:53,5,Complaint
+71,POST-71-1,LinkedIn,My loan application was excellent. Half simple certain military boy south discussion most. service.,2025-01-19T17:49:53,3,Praise
+71,POST-71-2,Twitter,My customer service was excellent. Put professional risk level. interest.,2025-02-06T17:49:53,3,Complaint
+71,POST-71-3,Instagram,My customer service was excellent. My out bit news bag grow. service.,2025-02-23T17:49:53,4,Praise
+71,POST-71-4,LinkedIn,My customer service was excellent. Author board continue sell suffer friend discuss. fees.,2025-02-12T17:49:53,3,Recommendation
+72,POST-72-0,Facebook,My loan application was excellent. Turn sell once past else painting. rate.,2025-02-04T17:49:53,5,Recommendation
+72,POST-72-1,Twitter,My online banking experience was excellent. Today hope hotel if carry. rate.,2025-03-05T17:49:53,5,Complaint
+72,POST-72-2,Facebook,My investment advice was excellent. Financial education glass car among. rate.,2025-02-23T17:49:53,5,Inquiry
+72,POST-72-3,Instagram,My loan application was excellent. Personal work good away. rate.,2025-01-19T17:49:53,4,Complaint
+72,POST-72-4,Instagram,My investment advice was excellent. Situation opportunity news firm draw job city. rate.,2025-03-20T17:49:53,4,Recommendation
+73,POST-73-0,Facebook,My online banking experience was poor. Agent south represent class seat idea. interest.,2025-01-13T17:49:53,1,Feedback
+73,POST-73-1,Instagram,My credit card benefits was poor. Sort despite store the tonight owner. app.,2024-12-27T17:49:53,3,Feedback
+73,POST-73-2,Instagram,My loan application was poor. City new drug growth probably nature. rate.,2025-03-13T17:49:53,2,Recommendation
+73,POST-73-3,Twitter,My customer service was poor. Hotel particularly bed their. service.,2025-01-20T17:49:53,1,Recommendation
+73,POST-73-4,LinkedIn,My loan application was poor. However left always onto fly ok chair. approval.,2025-01-14T17:49:53,3,Feedback
+74,POST-74-0,Facebook,My investment advice was excellent. Everyone charge service teacher appear hot doctor. fees.,2025-02-16T17:49:53,4,Feedback
+74,POST-74-1,Instagram,My investment advice was excellent. Apply attorney various treatment down task. service.,2025-01-19T17:49:53,5,Praise
+74,POST-74-2,Instagram,My credit card benefits was excellent. Detail or range research. app.,2025-01-26T17:49:53,4,Feedback
+74,POST-74-3,Instagram,My credit card benefits was excellent. Stay politics head wind authority cut pull southern. interest.,2025-02-17T17:49:53,5,Inquiry
+74,POST-74-4,Instagram,My loan application was excellent. Development or expect understand second. service.,2025-02-08T17:49:53,4,Praise
+75,POST-75-0,LinkedIn,My online banking experience was excellent. Half all page identify field several. approval.,2025-02-11T17:49:53,4,Complaint
+75,POST-75-1,Twitter,My credit card benefits was excellent. Around physical only usually. interest.,2025-02-01T17:49:53,3,Inquiry
+75,POST-75-2,Facebook,My online banking experience was excellent. Decade should second be building. fees.,2025-02-02T17:49:53,5,Feedback
+75,POST-75-3,Twitter,My investment advice was excellent. Same artist price close condition institution similar information. rate.,2025-01-29T17:49:53,4,Recommendation
+75,POST-75-4,Facebook,My customer service was excellent. Another upon opportunity reflect discussion challenge audience evening. fees.,2025-03-07T17:49:53,5,Feedback
+76,POST-76-0,Instagram,My investment advice was poor. Method face decision minute strong. interest.,2025-03-23T17:49:53,1,Inquiry
+76,POST-76-1,LinkedIn,My investment advice was poor. South human worry effect. service.,2025-03-09T17:49:53,1,Inquiry
+76,POST-76-2,Facebook,My loan application was poor. Author let best analysis marriage car energy. approval.,2025-02-11T17:49:53,2,Praise
+76,POST-76-3,Twitter,My credit card benefits was poor. Maybe heavy last section learn again both. interest.,2025-02-12T17:49:53,1,Praise
+76,POST-76-4,Instagram,My customer service was poor. Bad democratic opportunity name. rate.,2025-03-01T17:49:53,1,Inquiry
+77,POST-77-0,Twitter,My loan application was excellent. Yet kitchen degree its see respond plan. service.,2025-01-25T17:49:53,5,Praise
+77,POST-77-1,Facebook,My credit card benefits was excellent. So stand space. service.,2025-02-08T17:49:53,5,Praise
+77,POST-77-2,Twitter,My credit card benefits was excellent. Thought improve art available issue same. approval.,2025-03-11T17:49:53,5,Recommendation
+77,POST-77-3,Twitter,My online banking experience was excellent. Most item matter soldier. rate.,2025-03-05T17:49:53,5,Praise
+77,POST-77-4,LinkedIn,My online banking experience was excellent. Allow foot rate mind beyond. app.,2025-01-16T17:49:53,5,Complaint
+78,POST-78-0,LinkedIn,My customer service was poor. Contain thousand reveal long. app.,2025-01-19T17:49:53,2,Feedback
+78,POST-78-1,Instagram,My loan application was poor. Side they term garden science baby. app.,2025-02-15T17:49:53,1,Recommendation
+78,POST-78-2,LinkedIn,My loan application was poor. Star will throw whatever low far. interest.,2025-01-06T17:49:53,2,Praise
+78,POST-78-3,Facebook,My online banking experience was poor. Nation unit world. interest.,2025-01-06T17:49:53,1,Praise
+78,POST-78-4,Instagram,My credit card benefits was poor. Receive or size idea artist enter address. fees.,2025-02-20T17:49:53,3,Praise
+79,POST-79-0,Facebook,My credit card benefits was excellent. Like capital matter within allow. service.,2025-02-01T17:49:53,5,Feedback
+79,POST-79-1,Instagram,My customer service was excellent. Build image important office source daughter window same. rate.,2025-01-17T17:49:53,5,Feedback
+79,POST-79-2,LinkedIn,My investment advice was excellent. Individual management write radio create. rate.,2025-02-16T17:49:53,5,Complaint
+79,POST-79-3,Instagram,My online banking experience was excellent. Ago language business they. service.,2025-01-02T17:49:53,5,Praise
+79,POST-79-4,Twitter,My online banking experience was excellent. Hot deal other include floor. rate.,2025-02-24T17:49:53,4,Inquiry
+80,POST-80-0,Facebook,My loan application was excellent. Heavy herself second possible there military. service.,2025-02-21T17:49:53,5,Recommendation
+80,POST-80-1,Twitter,My credit card benefits was excellent. Lot big tough board tough above. fees.,2025-01-01T17:49:53,4,Complaint
+80,POST-80-2,Facebook,My investment advice was excellent. Series direction own community down always. service.,2025-01-26T17:49:53,5,Complaint
+80,POST-80-3,Instagram,My investment advice was excellent. Car establish top civil heavy score. fees.,2025-01-03T17:49:53,5,Praise
+80,POST-80-4,Instagram,My investment advice was excellent. Respond agree according it threat leave president. interest.,2025-02-03T17:49:53,4,Praise
+81,POST-81-0,Facebook,My customer service was poor. Contain respond score interest may. approval.,2025-01-23T17:49:53,2,Praise
+81,POST-81-1,LinkedIn,My credit card benefits was poor. Because believe thought drop travel beyond. approval.,2025-03-19T17:49:53,1,Recommendation
+81,POST-81-2,Instagram,My customer service was poor. Bar style property religious long in also. service.,2025-01-27T17:49:53,2,Feedback
+81,POST-81-3,LinkedIn,My investment advice was poor. Edge candidate none cup report bed open. interest.,2025-03-02T17:49:53,1,Recommendation
+81,POST-81-4,LinkedIn,My online banking experience was poor. Open chance front vote popular very. interest.,2025-03-18T17:49:53,1,Complaint
+82,POST-82-0,Facebook,My online banking experience was poor. Sometimes evidence gun floor hand. approval.,2025-03-23T17:49:53,4,Inquiry
+82,POST-82-1,Facebook,My credit card benefits was poor. Law drug science tonight to. service.,2024-12-30T17:49:53,3,Recommendation
+82,POST-82-2,Twitter,My customer service was poor. Service free catch employee. app.,2025-02-17T17:49:53,2,Feedback
+82,POST-82-3,Instagram,My credit card benefits was poor. Add involve outside expert word everybody put. approval.,2025-01-07T17:49:53,2,Praise
+82,POST-82-4,Twitter,My investment advice was poor. Than notice space. rate.,2025-01-03T17:49:53,2,Recommendation
+83,POST-83-0,Instagram,My online banking experience was poor. Or foot figure available realize will ok. rate.,2025-01-14T17:49:53,2,Praise
+83,POST-83-1,Instagram,My credit card benefits was poor. All trade bank interest reflect real. rate.,2025-03-10T17:49:53,2,Complaint
+83,POST-83-2,Facebook,My credit card benefits was poor. Firm deep soon give president. app.,2025-03-07T17:49:53,1,Praise
+83,POST-83-3,Instagram,My customer service was poor. Including thing network contain wide win spend. approval.,2025-01-15T17:49:53,1,Recommendation
+83,POST-83-4,Instagram,My credit card benefits was poor. When world some. rate.,2025-02-21T17:49:53,1,Recommendation
+84,POST-84-0,Instagram,My investment advice was excellent. Already factor try employee. app.,2025-01-17T17:49:53,5,Complaint
+84,POST-84-1,LinkedIn,My loan application was excellent. Make design student speak church sometimes behind. service.,2025-01-21T17:49:53,5,Inquiry
+84,POST-84-2,Facebook,My loan application was excellent. Will cultural bit little. app.,2025-03-10T17:49:53,5,Recommendation
+84,POST-84-3,Instagram,My customer service was excellent. Claim computer ready protect official lot. service.,2025-03-02T17:49:53,5,Recommendation
+84,POST-84-4,LinkedIn,My investment advice was excellent. Stay thought yard information. fees.,2025-01-06T17:49:53,5,Complaint
+85,POST-85-0,Facebook,My investment advice was excellent. Painting third medical lose modern. service.,2025-03-03T17:49:53,5,Inquiry
+85,POST-85-1,LinkedIn,My credit card benefits was excellent. Set design building create detail. app.,2025-02-02T17:49:53,5,Feedback
+85,POST-85-2,Facebook,My online banking experience was excellent. Form moment site somebody six painting. fees.,2025-02-27T17:49:53,5,Feedback
+85,POST-85-3,Facebook,My online banking experience was excellent. Hot well show call another. service.,2024-12-27T17:49:53,3,Feedback
+85,POST-85-4,LinkedIn,My loan application was excellent. Similar pull organization series ok left gas. fees.,2024-12-27T17:49:53,5,Recommendation
+86,POST-86-0,Twitter,My credit card benefits was poor. Great discover want course certain such. fees.,2025-02-21T17:49:53,1,Recommendation
+86,POST-86-1,Twitter,My investment advice was poor. Middle down card crime. rate.,2025-01-03T17:49:53,1,Feedback
+86,POST-86-2,Twitter,My customer service was poor. Almost kid necessary end point theory window. fees.,2025-01-26T17:49:53,1,Inquiry
+86,POST-86-3,Instagram,My loan application was poor. Whatever health could least boy power month chair. app.,2025-02-08T17:49:53,1,Feedback
+86,POST-86-4,Instagram,My online banking experience was poor. Write certain produce employee kid loss including. fees.,2025-02-11T17:49:53,1,Recommendation
+87,POST-87-0,Facebook,My credit card benefits was poor. Score history free later enjoy apply. approval.,2025-03-12T17:49:53,1,Complaint
+87,POST-87-1,Twitter,My online banking experience was poor. Action focus quality society apply blue. interest.,2025-02-24T17:49:53,2,Inquiry
+87,POST-87-2,Twitter,My investment advice was poor. Check see some parent put. interest.,2025-03-25T17:49:53,1,Praise
+87,POST-87-3,LinkedIn,My customer service was poor. General would best agent later determine. approval.,2025-01-16T17:49:53,1,Feedback
+87,POST-87-4,LinkedIn,My investment advice was poor. Feeling world data sure. fees.,2025-03-16T17:49:53,1,Complaint
+88,POST-88-0,Facebook,My investment advice was poor. Onto democratic wrong wife early likely. service.,2025-01-06T17:49:53,3,Inquiry
+88,POST-88-1,Facebook,My loan application was poor. Leg exactly way accept create learn. app.,2025-01-07T17:49:53,2,Inquiry
+88,POST-88-2,Facebook,My loan application was poor. Claim place whether star improve memory. fees.,2025-01-12T17:49:53,4,Praise
+88,POST-88-3,Instagram,My customer service was poor. Case person position direction soldier form. fees.,2025-02-09T17:49:53,2,Inquiry
+88,POST-88-4,Twitter,My investment advice was poor. Owner partner social either. service.,2025-02-04T17:49:53,4,Recommendation
+89,POST-89-0,Instagram,My investment advice was poor. Method young really exist. app.,2025-03-03T17:49:53,2,Recommendation
+89,POST-89-1,Facebook,My loan application was poor. Reflect recent six experience generation fact theory. service.,2025-01-22T17:49:53,3,Complaint
+89,POST-89-2,LinkedIn,My loan application was poor. Develop player on white consumer fund. app.,2025-03-25T17:49:53,3,Inquiry
+89,POST-89-3,Twitter,My credit card benefits was poor. Your school number activity money project mean but. approval.,2025-01-18T17:49:53,2,Feedback
+89,POST-89-4,Instagram,My loan application was poor. Thousand choice ago crime dog control campaign. app.,2025-03-11T17:49:53,3,Recommendation
+90,POST-90-0,Facebook,My loan application was poor. Tax travel century bank expect crime consumer. interest.,2025-01-29T17:49:53,4,Praise
+90,POST-90-1,Twitter,My customer service was poor. Professor work article get range. rate.,2025-02-14T17:49:53,2,Praise
+90,POST-90-2,Facebook,My investment advice was poor. At cut generation plan trouble off home. approval.,2025-03-17T17:49:53,2,Recommendation
+90,POST-90-3,Twitter,My investment advice was poor. House ago leg human know. interest.,2025-02-07T17:49:53,2,Inquiry
+90,POST-90-4,Facebook,My loan application was poor. Suffer range activity reduce piece large oil. rate.,2025-02-05T17:49:53,2,Feedback
+91,POST-91-0,Facebook,My online banking experience was poor. Arrive consumer nature look foreign bag. service.,2025-03-07T17:49:53,3,Inquiry
+91,POST-91-1,Instagram,My credit card benefits was poor. Police son material reflect two question. interest.,2025-01-08T17:49:53,1,Praise
+91,POST-91-2,Instagram,My investment advice was poor. Pressure success note space Mr TV others. approval.,2025-02-11T17:49:53,1,Inquiry
+91,POST-91-3,LinkedIn,My customer service was poor. Community war choice. service.,2025-03-14T17:49:53,1,Inquiry
+91,POST-91-4,Facebook,My investment advice was poor. Pm around exist more environmental education. fees.,2025-02-19T17:49:53,2,Praise
+92,POST-92-0,Facebook,My customer service was poor. Student film you check already. interest.,2025-02-19T17:49:53,1,Complaint
+92,POST-92-1,LinkedIn,My credit card benefits was poor. Animal father half they. app.,2025-02-19T17:49:53,3,Feedback
+92,POST-92-2,LinkedIn,My credit card benefits was poor. Series performance hand scene later. interest.,2025-01-16T17:49:53,3,Complaint
+92,POST-92-3,Instagram,My investment advice was poor. So break evening seem reveal. fees.,2025-01-10T17:49:53,3,Praise
+92,POST-92-4,Instagram,My investment advice was poor. Prevent space forget head across. service.,2025-01-24T17:49:53,3,Complaint
+93,POST-93-0,LinkedIn,My online banking experience was excellent. He adult can right necessary. service.,2025-01-25T17:49:53,5,Recommendation
+93,POST-93-1,Twitter,My investment advice was excellent. Wear policy phone other either. service.,2025-03-15T17:49:53,3,Recommendation
+93,POST-93-2,Facebook,My investment advice was excellent. Only minute clearly box. fees.,2025-01-02T17:49:53,5,Praise
+93,POST-93-3,Instagram,My investment advice was excellent. Bar remain parent listen. interest.,2025-03-25T17:49:53,4,Complaint
+93,POST-93-4,LinkedIn,My investment advice was excellent. Nice watch possible live teach. service.,2025-03-20T17:49:53,5,Complaint
+94,POST-94-0,Twitter,My online banking experience was poor. Magazine American perhaps form card she road. approval.,2025-01-05T17:49:53,3,Recommendation
+94,POST-94-1,Facebook,My online banking experience was poor. There various activity executive brother lay hot condition. fees.,2025-01-28T17:49:53,2,Inquiry
+94,POST-94-2,Facebook,My customer service was poor. Room information minute sign someone. rate.,2025-01-28T17:49:53,4,Praise
+94,POST-94-3,LinkedIn,My loan application was poor. Reason suffer develop result sport movie floor throw. interest.,2025-03-18T17:49:53,2,Feedback
+94,POST-94-4,Instagram,My loan application was poor. Standard together road two quite more wish anyone. app.,2025-03-22T17:49:53,4,Praise
+95,POST-95-0,Facebook,My loan application was excellent. Couple picture conference cut whole. service.,2025-01-24T17:49:53,5,Inquiry
+95,POST-95-1,Twitter,My credit card benefits was excellent. Piece key check impact. service.,2025-01-21T17:49:53,4,Complaint
+95,POST-95-2,Twitter,My investment advice was excellent. Hand moment to friend onto process hotel. interest.,2025-02-08T17:49:53,4,Complaint
+95,POST-95-3,Instagram,My investment advice was excellent. Use its manager never budget along. app.,2025-02-20T17:49:53,3,Feedback
+95,POST-95-4,Twitter,My loan application was excellent. Television stuff if into customer. rate.,2025-03-07T17:49:53,3,Complaint
+96,POST-96-0,Twitter,My online banking experience was poor. The worker another society race lot. app.,2025-01-19T17:49:53,1,Recommendation
+96,POST-96-1,Instagram,My online banking experience was poor. Traditional factor away president community issue. fees.,2025-01-24T17:49:53,1,Praise
+96,POST-96-2,Instagram,My loan application was poor. They knowledge could. approval.,2025-01-12T17:49:53,1,Recommendation
+96,POST-96-3,Instagram,My credit card benefits was poor. Discover least service establish arm. approval.,2025-02-10T17:49:53,2,Recommendation
+96,POST-96-4,Twitter,My customer service was poor. Back little thank seek relationship rule summer. interest.,2025-01-11T17:49:53,1,Feedback
+97,POST-97-0,Twitter,My customer service was poor. Skill fire day religious network. interest.,2025-01-20T17:49:53,1,Praise
+97,POST-97-1,Facebook,My investment advice was poor. Call recently east close. rate.,2025-03-06T17:49:53,3,Inquiry
+97,POST-97-2,Twitter,My customer service was poor. True simple then safe force Democrat claim. fees.,2025-03-06T17:49:53,2,Complaint
+97,POST-97-3,Facebook,My online banking experience was poor. Easy a still. approval.,2025-03-25T17:49:53,3,Feedback
+97,POST-97-4,Instagram,My online banking experience was poor. Candidate task sort nice lose customer party network. rate.,2025-03-16T17:49:53,3,Feedback
+98,POST-98-0,Facebook,My investment advice was excellent. Why him play forward. interest.,2025-01-01T17:49:53,5,Complaint
+98,POST-98-1,LinkedIn,My online banking experience was excellent. Appear wall gun near pass carry. fees.,2025-03-08T17:49:53,5,Recommendation
+98,POST-98-2,Facebook,My customer service was excellent. Mouth commercial enough take. rate.,2025-03-16T17:49:53,4,Inquiry
+98,POST-98-3,Facebook,My loan application was excellent. Number compare leader. interest.,2025-01-24T17:49:53,5,Recommendation
+98,POST-98-4,Twitter,My loan application was excellent. Type late seek able stock. rate.,2025-03-15T17:49:53,5,Inquiry
+99,POST-99-0,Instagram,My investment advice was poor. Cold like young part. interest.,2025-01-25T17:49:53,1,Inquiry
+99,POST-99-1,LinkedIn,My customer service was poor. Beyond truth hard across. service.,2025-02-14T17:49:53,1,Feedback
+99,POST-99-2,Instagram,My credit card benefits was poor. Reason rise realize little strategy. service.,2025-03-25T17:49:53,1,Complaint
+99,POST-99-3,Facebook,My online banking experience was poor. Herself activity light have about parent operation. approval.,2025-01-03T17:49:53,3,Inquiry
+99,POST-99-4,LinkedIn,My customer service was poor. Before stop wall medical finally explain eye. fees.,2025-02-16T17:49:53,2,Recommendation
+100,POST-100-0,Twitter,My loan application was excellent. Thousand character she officer apply officer. service.,2025-03-16T17:49:53,4,Praise
+100,POST-100-1,LinkedIn,My online banking experience was excellent. Side democratic son end practice tonight provide. app.,2024-12-30T17:49:53,5,Recommendation
+100,POST-100-2,Twitter,My online banking experience was excellent. Likely white pick might realize. approval.,2025-01-11T17:49:53,3,Recommendation
+100,POST-100-3,Instagram,My loan application was excellent. Second lawyer first too push deal very. app.,2025-01-18T17:49:53,4,Complaint
+100,POST-100-4,LinkedIn,My customer service was excellent. Success number computer look. rate.,2025-03-07T17:49:53,5,Praise

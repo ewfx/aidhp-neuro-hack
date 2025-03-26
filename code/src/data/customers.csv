@@ -1,0 +1,101 @@
+customer_id,industry,financial_needs,preferences,revenue,no_of_employees
+1,Finance,Payment Solutions,Low Fees,2284481,193
+2,Manufacturing,Wealth Management,"Digital Banking, Personal Advisor, High Credit Limits",8183647,202
+3,Retail,Investment Banking,"Low Fees, Personal Advisor, High Credit Limits",3093549,160
+4,Finance,Wealth Management,"Personal Advisor, Digital Banking, High Credit Limits",2020794,35
+5,Healthcare,Wealth Management,"Personal Advisor, Digital Banking, Low Fees",1148289,308
+6,Healthcare,Wealth Management,"Low Fees, Personal Advisor, High Credit Limits",3597072,203
+7,Retail,Investment Banking,"High Credit Limits, Digital Banking",3417025,358
+8,Finance,Investment Banking,"Digital Banking, Low Fees, High Credit Limits",7436664,496
+9,Retail,Payment Solutions,High Credit Limits,4526940,218
+10,Manufacturing,Wealth Management,"High Credit Limits, Personal Advisor",2344857,481
+11,Finance,Wealth Management,"Digital Banking, Low Fees, Personal Advisor",2918073,19
+12,Finance,Investment Banking,"Low Fees, Digital Banking",9883343,359
+13,Healthcare,Payment Solutions,Personal Advisor,9331636,121
+14,Retail,Wealth Management,"Personal Advisor, High Credit Limits, Low Fees",3647993,325
+15,Technology,Payment Solutions,"Personal Advisor, Digital Banking",534375,198
+16,Finance,Wealth Management,"Personal Advisor, Low Fees",3414502,101
+17,Finance,Business Loans,"Digital Banking, Low Fees, High Credit Limits",2517027,272
+18,Technology,Investment Banking,"Personal Advisor, Low Fees",4641820,114
+19,Manufacturing,Wealth Management,"High Credit Limits, Low Fees",2936111,87
+20,Manufacturing,Wealth Management,"Low Fees, Digital Banking, High Credit Limits",3484630,354
+21,Manufacturing,Payment Solutions,"Personal Advisor, Digital Banking",9776269,450
+22,Technology,Investment Banking,"Personal Advisor, High Credit Limits",5679277,112
+23,Healthcare,Investment Banking,Digital Banking,3461627,148
+24,Healthcare,Payment Solutions,"Low Fees, High Credit Limits, Digital Banking",7910281,76
+25,Technology,Wealth Management,"Digital Banking, Personal Advisor",6599772,399
+26,Finance,Wealth Management,"Digital Banking, High Credit Limits, Personal Advisor",5918836,296
+27,Healthcare,Wealth Management,High Credit Limits,7921435,296
+28,Manufacturing,Investment Banking,"Personal Advisor, High Credit Limits",9893042,43
+29,Healthcare,Wealth Management,"Low Fees, Digital Banking, High Credit Limits",4791760,267
+30,Retail,Business Loans,"Low Fees, Digital Banking",4159437,392
+31,Healthcare,Payment Solutions,"High Credit Limits, Digital Banking, Personal Advisor",1301798,89
+32,Technology,Wealth Management,Personal Advisor,9267675,46
+33,Manufacturing,Payment Solutions,Digital Banking,2880862,81
+34,Manufacturing,Investment Banking,"Personal Advisor, High Credit Limits",6688157,236
+35,Healthcare,Wealth Management,High Credit Limits,4632054,440
+36,Technology,Business Loans,"Low Fees, Personal Advisor, High Credit Limits",4158140,324
+37,Healthcare,Wealth Management,Personal Advisor,6373855,411
+38,Technology,Investment Banking,"Low Fees, High Credit Limits, Personal Advisor",2684843,206
+39,Healthcare,Investment Banking,"Low Fees, Digital Banking, High Credit Limits",6971574,424
+40,Retail,Wealth Management,"Low Fees, Personal Advisor, High Credit Limits",611009,417
+41,Healthcare,Wealth Management,"High Credit Limits, Personal Advisor, Digital Banking",8020960,102
+42,Manufacturing,Payment Solutions,"Low Fees, Personal Advisor, Digital Banking",3963911,443
+43,Technology,Business Loans,"Low Fees, Digital Banking",2207200,372
+44,Manufacturing,Wealth Management,"Digital Banking, High Credit Limits",7404933,363
+45,Technology,Investment Banking,"Personal Advisor, Low Fees",5923912,126
+46,Manufacturing,Investment Banking,"High Credit Limits, Digital Banking, Personal Advisor",6890002,363
+47,Manufacturing,Payment Solutions,Low Fees,1787958,358
+48,Healthcare,Business Loans,"Digital Banking, Personal Advisor, Low Fees",3604066,296
+49,Retail,Investment Banking,"Low Fees, Digital Banking, Personal Advisor",9047927,391
+50,Technology,Wealth Management,"Personal Advisor, High Credit Limits, Low Fees",3213547,39
+51,Technology,Payment Solutions,"Low Fees, Personal Advisor",7534186,216
+52,Retail,Business Loans,Low Fees,6918078,131
+53,Retail,Wealth Management,High Credit Limits,1016776,236
+54,Technology,Wealth Management,"High Credit Limits, Digital Banking, Personal Advisor",1580548,250
+55,Finance,Payment Solutions,"High Credit Limits, Low Fees, Personal Advisor",5186887,37
+56,Technology,Payment Solutions,"Digital Banking, High Credit Limits",8303665,10
+57,Technology,Investment Banking,Digital Banking,4995903,494
+58,Finance,Investment Banking,Personal Advisor,9220760,22
+59,Retail,Business Loans,"High Credit Limits, Personal Advisor",7361133,87
+60,Manufacturing,Wealth Management,Digital Banking,9761916,235
+61,Retail,Wealth Management,"High Credit Limits, Low Fees",4665595,107
+62,Retail,Investment Banking,"High Credit Limits, Digital Banking, Low Fees",600643,379
+63,Retail,Wealth Management,"High Credit Limits, Low Fees, Digital Banking",7725374,363
+64,Technology,Wealth Management,"Digital Banking, High Credit Limits",7498904,471
+65,Finance,Payment Solutions,"Digital Banking, High Credit Limits",997807,345
+66,Technology,Payment Solutions,"Low Fees, Digital Banking, High Credit Limits",7752181,213
+67,Technology,Wealth Management,"High Credit Limits, Digital Banking",1066102,107
+68,Manufacturing,Wealth Management,"High Credit Limits, Digital Banking",2449399,462
+69,Technology,Payment Solutions,Digital Banking,3717622,420
+70,Healthcare,Investment Banking,"High Credit Limits, Low Fees, Digital Banking",2782393,161
+71,Healthcare,Payment Solutions,High Credit Limits,7878004,21
+72,Retail,Wealth Management,Personal Advisor,1841525,271
+73,Retail,Investment Banking,"Personal Advisor, Digital Banking",5861679,103
+74,Technology,Investment Banking,High Credit Limits,7547060,83
+75,Finance,Wealth Management,"Digital Banking, Low Fees, Personal Advisor",5086347,146
+76,Finance,Investment Banking,Digital Banking,7627349,433
+77,Healthcare,Wealth Management,Personal Advisor,5766702,282
+78,Finance,Wealth Management,"Low Fees, High Credit Limits",8999469,367
+79,Healthcare,Investment Banking,"Digital Banking, High Credit Limits, Personal Advisor",5945229,265
+80,Healthcare,Wealth Management,"High Credit Limits, Digital Banking, Low Fees",6479814,192
+81,Retail,Payment Solutions,"Personal Advisor, Digital Banking",3553391,90
+82,Healthcare,Investment Banking,"Personal Advisor, Low Fees",9963487,353
+83,Healthcare,Payment Solutions,"Digital Banking, High Credit Limits, Personal Advisor",5917050,392
+84,Retail,Business Loans,"High Credit Limits, Personal Advisor",6821399,349
+85,Manufacturing,Investment Banking,High Credit Limits,5165604,79
+86,Finance,Wealth Management,"High Credit Limits, Personal Advisor",4766947,132
+87,Healthcare,Payment Solutions,"Low Fees, Digital Banking, High Credit Limits",5897314,297
+88,Healthcare,Business Loans,"Digital Banking, Low Fees",2196306,42
+89,Technology,Business Loans,"Digital Banking, Low Fees, Personal Advisor",9511125,380
+90,Manufacturing,Business Loans,"Low Fees, Personal Advisor, Digital Banking",6136452,126
+91,Technology,Investment Banking,"High Credit Limits, Personal Advisor, Digital Banking",1889446,37
+92,Retail,Investment Banking,"Personal Advisor, Low Fees",9776543,469
+93,Healthcare,Business Loans,"High Credit Limits, Low Fees, Digital Banking",3308993,486
+94,Finance,Investment Banking,Digital Banking,9926035,192
+95,Technology,Payment Solutions,"Digital Banking, Personal Advisor, Low Fees",6251000,368
+96,Technology,Investment Banking,"High Credit Limits, Low Fees, Digital Banking",7543551,326
+97,Technology,Business Loans,"Personal Advisor, Low Fees, High Credit Limits",2540124,106
+98,Technology,Wealth Management,"High Credit Limits, Digital Banking",7847972,160
+99,Manufacturing,Investment Banking,"Personal Advisor, Digital Banking",1148242,220
+100,Manufacturing,Wealth Management,"Low Fees, Digital Banking, Personal Advisor",4331284,422
